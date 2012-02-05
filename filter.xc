@@ -1,7 +1,8 @@
 // COMS20600 - WEEKS 9 to 12
 // ASSIGNMENT 3
 // TITLE: "Concurrent Image Filter"
-// Jamie Henson & Matt Livingston
+// Created by Matthew Livingston and Jamie Henson on 20/01/2012.
+// Copyright 2012 University of Bristol. All rights reserved.
 
 typedef unsigned char uchar;
 #include <platform.h>
